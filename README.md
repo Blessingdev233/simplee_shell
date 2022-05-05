@@ -1,7 +1,7 @@
 # 0x16.C Simple Shell :ledger:
 
 
-This project was built by Edith Pink and Blessing.
+This project was built by Edith and Blessing.
 
 # Table of Contents
 1. [Authors](#Authors)
@@ -11,11 +11,11 @@ This project was built by Edith Pink and Blessing.
 # Authors
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
- 👤 **Blessing **
+ 👤 **Blessing**
 - Github: [@Blessingdev233](https://github.com/Blessingdev233)
 
 
-👤 **Edith Pink**
+👤 **Edith**
 - Github: [@EdithPink](https://github.com/EdithPink)
 # How To Use
 
