@@ -69,7 +69,7 @@ void add_nodes(sep_list **head_s, line_list **head_l, char *input)
 }
 
 /**
- * go_next - go to the next command line stored
+ * go_next - goes to the next command line stored
  * @list_s: seperator list
  * @list_l: command line list
  * @datash: relevant daa
@@ -155,6 +155,7 @@ int split_commands(data_shell *datash, char *input)
 
 /**
  * split_line - tokenizes the input string
+ *
  * @input: input string
  * Return: string split
  */

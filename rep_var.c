@@ -82,7 +82,7 @@ int check_vars(r_var **h, char *in, char *st, data_shell *data)
 }
 
 /**
- * replaced_input - replaces strings int variables
+ * replaced_input - replaces the strings int variables
  * @head: head of linked list
  * @input: input string
  * @new_input: new input string(replaced)
@@ -133,7 +133,7 @@ char *replaced_input(r_var **head, char *input, char *new_input, int nlen)
 }
 
 /**
- * rep_var - calls functions to replace string into vars
+ * rep_var - calls fxns to replace string into vars
  * @input: input string
  * @datash: data structure
  * Return: replaced string

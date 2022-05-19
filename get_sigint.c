@@ -2,6 +2,7 @@
 
 /**
  * get_sigint - handle the ctrl+c call in prompt
+ *
  * @sig: signal number
  */
 void get_sigint(int sig)
