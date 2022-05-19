@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * exec_line - finde builtins and commands
+ * exec_line - finds builtins and commands
  * @datash: relevant data
  * Return: 1 on success
  */
